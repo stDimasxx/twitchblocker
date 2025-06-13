@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          Twitch RU Blocker v2.4 — DELAYED FINAL
+// @name          Twitch RU Blocker v2.4
 // @namespace     http://dimaskiller.twitch.block/
 // @version       2.4
 // @description   Блокує русню: тицяє ⋯ → чекає 1с → тицяє Not Interested
